@@ -1,0 +1,7 @@
+{
+  "name": "Mindustry-Discord-Relay",
+  "author": "ArchieJaskowicz",
+  "main": "me.jaskowicz.mindustrydiscordrelay.Main",
+  "description": "A Mindustry plugin that allows users to send information to discord from Mindustry.",
+  "version": 1.0
+}
